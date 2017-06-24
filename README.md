@@ -1,10 +1,3 @@
-# uas-reg-juangfuad
-uas-reg-juangfuad created by GitHub Classroom
+Juang fuad Rian Hidayat (8011144)
 
-Nama : Juang fuad rian hidayat
-Nim : 8011144
-Kelas : 01
-
-Nama : Sholikhul Resandy
-Nim : 2014150104
-Kelas : 01
+Solikhul resandy (2014150104)
